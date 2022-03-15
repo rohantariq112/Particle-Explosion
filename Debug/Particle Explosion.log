@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\hroha\desktop\spring 2022\particle explosion\main.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\hroha\desktop\spring 2022\particle explosion\main.cpp(54): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\hroha\desktop\spring 2022\particle explosion\main.cpp(55): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\hroha\desktop\spring 2022\particle explosion\main.cpp(23): warning C4101: 'event': unreferenced local variable
+  Particle.cpp
+  Screen.cpp
+c:\users\hroha\desktop\spring 2022\particle explosion\screen.cpp(183): warning C4551: function call missing argument list
+  Swarm.cpp
+  Generating Code...
+  Particle Explosion.vcxproj -> C:\Users\hroha\Desktop\Spring 2022\Particle Explosion\Debug\Particle Explosion.exe
